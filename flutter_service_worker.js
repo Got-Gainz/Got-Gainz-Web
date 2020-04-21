@@ -40,7 +40,7 @@ const RESOURCES = {
 "icons/ms-icon-70x70.png": "d3ac0a1113eb9e4c0454c06dae10ab5d",
 "index.html": "8bdb57efb112e4e694a65630cd1b5fad",
 "/": "8bdb57efb112e4e694a65630cd1b5fad",
-"main.dart.js": "46b1183b6c0511489f8948758634f4c1"
+"main.dart.js": "a591749d50415cd9e232e5196c518a83"
 };
 
 self.addEventListener('activate', function (event) {
