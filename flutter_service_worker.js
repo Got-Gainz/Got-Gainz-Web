@@ -28,19 +28,19 @@ const RESOURCES = {
 "icons/apple-icon-76x76.png": "0099374413a00294947b29fb564eb704",
 "icons/apple-icon-precomposed.png": "654cc14fef2e4374f484789b9a134c41",
 "icons/apple-icon.png": "654cc14fef2e4374f484789b9a134c41",
-"icons/browserconfig.xml": "653d077300a12f09a69caeea7a8947f8",
+"icons/browserconfig.xml": "97775b1fd3b6e6c13fc719c2c7dd0ffe",
 "icons/favicon-16x16.png": "a1bd24a855d4ad356f28bdf0a1b50b78",
 "icons/favicon-32x32.png": "85aa521f110cb3445dc1295827d80a92",
 "icons/favicon-96x96.png": "be44f855d48f7372678ebdabce90faa1",
 "icons/favicon.ico": "c3009fee9e310728b06434ed75a49095",
-"icons/manifest.json": "2869e3a1836f1fb8187b00f53b178515",
+"icons/manifest.json": "baf14da92e2653caaceebb43ab91763d",
 "icons/ms-icon-144x144.png": "7c7395b654f33a7a4d543b7bbeef611b",
 "icons/ms-icon-150x150.png": "826df29d0a88d22f8aba69461d4c77ed",
 "icons/ms-icon-310x310.png": "5f60b224f49e2ee3fc2e21820b91e8bb",
 "icons/ms-icon-70x70.png": "d3ac0a1113eb9e4c0454c06dae10ab5d",
 "index.html": "8bdb57efb112e4e694a65630cd1b5fad",
 "/": "8bdb57efb112e4e694a65630cd1b5fad",
-"main.dart.js": "997fdeda537dc77b2ea23dcec75f44f1"
+"main.dart.js": "95bcd12694e339cec79e5ae1ac05146f"
 };
 
 self.addEventListener('activate', function (event) {
