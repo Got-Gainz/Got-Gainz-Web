@@ -27674,7 +27674,7 @@ t.eC("/fourth",u.K)},
 $S:0}
 B.zH.prototype={
 B:function(a){var t=null,s=C.qd.h(0,50),r=L.ab("Welcome to Got Gainz",t,t,t,t,A.b1(t,t,C.qe.h(0,800),t,t,t,t,t,t,t,t,30,t,C.ag,t,t,!0,t,t,t,t,t,t),C.d9),q=L.ab("Your personal fitness trainer is waiting for you.",t,t,t,t,A.b1(t,t,C.K,t,t,t,t,t,t,t,t,16,C.le,C.ag,t,t,!0,t,t,t,t,t,t),C.cs),p=L.ab("A few things before you start working out.",t,t,t,t,A.b1(t,t,C.t,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t),C.cs),o=new P.aV(18,18),n=C.qe.h(0,700)
-return M.dw(t,s,Q.j2(!0,E.a7w(new T.bQ(C.z,t,t,M.bB(t,E.CZ(T.bY(H.c([new U.kk(new L.lM("assets/getStartedImage.png",t,t),380,360,C.oA,t),r,q,new T.by(t,15,t,t),p,new T.by(t,15,t,t),B.r6(t,!1,L.ab("Get Started".toUpperCase(),t,t,t,t,A.b1(t,t,t,t,t,t,t,t,t,t,t,t,t,C.ag,t,t,!0,t,t,t,t,t,t),t),C.a7,n,t,t,t,t,t,t,t,t,50,t,t,t,t,t,t,30,t,t,new B.NO(a),t,new X.bt(new Y.dm(C.qi,1,C.X),new K.bc(o,o,o,o)),t,C.l,t,t)],u.p),C.E,C.ai,C.B),t,C.a9,t,C.o),t,t,t,t,t,new V.a6(25,100,25,25),t),t)),C.a8,!0),t)}}
+return M.dw(t,s,new T.bQ(C.z,t,t,Q.j2(!0,E.a7w(M.bB(t,E.CZ(T.bY(H.c([new U.kk(new L.lM("assets/getStartedImage.png",t,t),380,360,C.oA,t),r,q,new T.by(t,15,t,t),p,new T.by(t,15,t,t),B.r6(t,!1,L.ab("Get Started".toUpperCase(),t,t,t,t,A.b1(t,t,t,t,t,t,t,t,t,t,t,t,t,C.ag,t,t,!0,t,t,t,t,t,t),t),C.a7,n,t,t,t,t,t,t,t,t,50,t,t,t,t,t,t,30,t,t,new B.NO(a),t,new X.bt(new Y.dm(C.qi,1,C.X),new K.bc(o,o,o,o)),t,C.l,t,t)],u.p),C.E,C.ai,C.B),t,C.a9,t,C.o),t,t,t,t,t,new V.a6(25,100,25,25),t)),C.a8,!0),t),t)}}
 B.NO.prototype={
 $0:function(){var t=this.a.bQ(u.I)
 t.eC("/second",u.K)},
