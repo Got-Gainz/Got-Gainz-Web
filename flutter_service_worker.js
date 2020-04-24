@@ -1,9 +1,10 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "67128811eeeec67a3744556bda96e755",
+  "assets/AssetManifest.json": "874e95beb98c5fb986ec2bb8547ce1e0",
 "assets/assets/getStartedImage.png": "3d009e83d58694a7f303fe927d5bf725",
 "assets/assets/gifs/splashScreen.gif": "d48f1d61f4d1f8e5d657fd63bcc92f63",
+"assets/assets/workoutplan.png": "2a3c52b0f9fc3953a700ad9647677eef",
 "assets/FontManifest.json": "9b7cd598c2610c799474ef4aa9b5777b",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "3e845e8658c6958387d9d424e17cd99b",
@@ -40,7 +41,7 @@ const RESOURCES = {
 "icons/ms-icon-70x70.png": "d3ac0a1113eb9e4c0454c06dae10ab5d",
 "index.html": "8bdb57efb112e4e694a65630cd1b5fad",
 "/": "8bdb57efb112e4e694a65630cd1b5fad",
-"main.dart.js": "3a1beafbcbf79e57d4672c99039fa2d2"
+"main.dart.js": "c019fd9b30a187b29eb0578b91bfba9f"
 };
 
 self.addEventListener('activate', function (event) {
