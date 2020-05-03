@@ -1,17 +1,18 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "874e95beb98c5fb986ec2bb8547ce1e0",
+  "assets/AssetManifest.json": "3633bd062363a47058c3b2ceca998e8a",
 "assets/assets/getStartedImage.png": "3d009e83d58694a7f303fe927d5bf725",
 "assets/assets/gifs/splashScreen.gif": "d48f1d61f4d1f8e5d657fd63bcc92f63",
+"assets/assets/progresspage.png": "b9c8c5372f9581204dd27abc0f6cd8d4",
 "assets/assets/workoutplan.png": "2a3c52b0f9fc3953a700ad9647677eef",
 "assets/FontManifest.json": "9b7cd598c2610c799474ef4aa9b5777b",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "3e845e8658c6958387d9d424e17cd99b",
+"assets/LICENSE": "c3d29a4caa3bdd6f1adcdc95280d9f66",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "51d23d1c30deda6f34673e0d5600fd38",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "d51b09f7b8345b41dd3b2201f653c62b",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "0ea892e09437fcaa050b2b15c53173b7",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
 "icons/android-icon-144x144.png": "7c7395b654f33a7a4d543b7bbeef611b",
 "icons/android-icon-192x192.png": "a7e01a9718d4142da958ff429e5bf5ab",
 "icons/android-icon-36x36.png": "fc71ffac68a370e1fb6c19aefde54ff3",
@@ -41,7 +42,7 @@ const RESOURCES = {
 "icons/ms-icon-70x70.png": "d3ac0a1113eb9e4c0454c06dae10ab5d",
 "index.html": "8bdb57efb112e4e694a65630cd1b5fad",
 "/": "8bdb57efb112e4e694a65630cd1b5fad",
-"main.dart.js": "c019fd9b30a187b29eb0578b91bfba9f"
+"main.dart.js": "dcf0672bb9d021efea35ba71d5b3834b"
 };
 
 self.addEventListener('activate', function (event) {
